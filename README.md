@@ -4,7 +4,13 @@ Repo für den Unterricht
 
 ## Bitte eigenes Laptop besorgen
 
-## Inhalt erste Stunde
+## 2023-09-14:
+
+-   GH Repos!
+-   Zusammenhänge HTML / CSS / JS
+-   jshero
+
+## 2023-09-07 Themen
 
 -   github besprochen
 -   javascript console geöffnet
