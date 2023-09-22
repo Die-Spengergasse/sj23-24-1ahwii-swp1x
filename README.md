@@ -1,22 +1,14 @@
 # sj23-24-1ahwii-swpx
 
-## 2023-09-21
+## Hausübung vom 21.9.
 
--   Bespr. Hüs
--   Einführung HTML
-    -   selfhtml
-    -   mdn (mozilla dev network)
-    -   listen und table
-    -   img und a
-    -   emmet
-    -   prettier
+-   Erweiterung der vorhanden Website und upload in Dein Repository
 
-## 2023-09-14:
+## TODO - upcoming
 
-**HÜ ein commit in mein persönliches Repo!**
-
--   erstellen von index.html
--   f12 im browser
--   GH Repos!
--   Zusammenhänge HTML / CSS / JS
--   jshero
+-   Copyright awareness! insbs. Git Repo
+-   html5 semantic tags
+-   html tag attributes
+-   a href
+-   img src
+-   vscode workspaces / prettier (config!) /

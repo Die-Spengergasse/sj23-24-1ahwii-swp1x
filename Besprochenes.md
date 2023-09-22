@@ -1,4 +1,25 @@
+# Besprochene Themen - revers chronologisch
 
+## 2023-09-21
+
+-   Bespr. Hüs
+-   Einführung HTML
+    -   selfhtml
+    -   mdn (mozilla dev network)
+    -   listen und table
+    -   img und a
+    -   emmet
+    -   prettier
+
+## 2023-09-14:
+
+**HÜ ein commit in mein persönliches Repo!**
+
+-   erstellen von index.html
+-   f12 im browser
+-   GH Repos!
+-   Zusammenhänge HTML / CSS / JS
+-   jshero
 
 ## 2023-09-07 Themen
 
@@ -12,5 +33,3 @@
 -   -   true / false
 -   if / else und codeblöcke
 -   ein bisschen vs code hergezeigt
-
-
