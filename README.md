@@ -4,6 +4,7 @@ Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag
 
 ## Tests (stehen im Untis)
 
+-   5.10. (Vorbereitung Labor)
 -   12.10.
 -   14.12.
 -   25.1.
