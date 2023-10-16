@@ -5,6 +5,7 @@ const group = document.querySelector(".theme-group-name");
 const elems = [line, body, main, group];
 elems.forEach((e) => {
     console.log(e);
+    // @ts-ignore
     console.log(e.offsetWidth);
 });
 
@@ -17,15 +18,15 @@ function toggleText(target) {
     console.log("clicked, target:");
     console.log(target);
     if (target.isShowingMore) {
-        target.style.whiteSpace = "nowrap";
+        // target.style.whiteSpace = "nowrap";
         target.style.overflow = "hidden";
-        target.style.textOverflow = "ellipsis";
-        target.style.height = "1em";
+        // target.style.textOverflow = "ellipsis";
+        target.style.height = "1.2em";
         target.isShowingMore = false;
     } else {
-        target.style.whiteSpace = "normal";
+        // target.style.whiteSpace = "normal";
         target.style.overflow = "visible";
-        target.style.textOverflow = "clip";
+        // target.style.textOverflow = "clip";
         target.style.height = "auto";
         target.isShowingMore = true;
     }
