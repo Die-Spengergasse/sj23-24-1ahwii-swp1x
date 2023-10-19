@@ -1,9 +1,24 @@
 # Besprochene Themen - revers chronologisch
 
+## Tests (stehen im Untis)
+
+-   5.10. (Vorbereitung Labor)
+-   12.10.
+-   14.12.
+-   25.1.
+
+## HÜ vom 28.9.
+
+-   vercel - netlify - heroku
+-   einmal href="#id" verwenden
+-   einmal .gitignore
+-   funktionierender mailto link
+-   script und style extra!
+-   indentation!
+
 ## Hausübung vom 21.9.
 
 -   Erweiterung der vorhanden Website und upload in Dein Repository
-
 
 ## 2023-09-21
 

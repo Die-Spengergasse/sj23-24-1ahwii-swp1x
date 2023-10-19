@@ -2,21 +2,12 @@
 
 Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag)
 
-## Tests (stehen im Untis)
+HÜ über die Herbstferien
 
--   5.10. (Vorbereitung Labor)
--   12.10.
--   14.12.
--   25.1.
-
-## HÜ vom 28.9.
-
--   vercel - netlify - heroku
--   einmal href="#id" verwenden
--   einmal .gitignore
--   funktionierender mailto link
--   script und style extra!
--   indentation!
+-   Images in einen CSS Grid packen
+-   Angabe im Ordner `2023-10-12_PLF1_Website_nachbauen`
+-   Online Spiel hierzu: <https://cssgridgarden.com/>
+-   siehe diverse tutorials auf w3schools und mdn
 
 ## TODO - upcoming
 
