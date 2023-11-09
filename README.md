@@ -2,6 +2,10 @@
 
 Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag)
 
+## HÜ bis 16.11. = Verländerung der HÜ der Herbstferien
+
+Fertigmachen ORF Seite Nachbau
+
 HÜ über die Herbstferien
 
 -   Images in einen CSS Grid packen
@@ -11,6 +15,7 @@ HÜ über die Herbstferien
 
 ## TODO - upcoming
 
+-   CSS Einheiten!
 -   .gitignore!
 
 -   mailto link, mdn!

@@ -1,29 +1,87 @@
-* {
-    width: 100%;
+body {
+    background-color: #5286c1;
+    /* display: grid; */
+    width: 875px;
+    grid-template-columns: 171px auto;
+    font-family: Arial, Roboto, sans-serif;
+    color: #fff;
+    margin: auto;
 }
-main {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    width: 95vw;
-}
-.theme-group-name {
-    color: #222;
+
+header {
+    text-align: center;
     grid-column-start: 1;
-    grid-column-end: 2;
-    padding-top: 1em;
-}
-.expandable-headlines {
-    grid-column-start: 2;
     grid-column-end: 3;
 }
-.expandable-headlines li {
+.header2 {
+    margin-bottom: 2em;
+    text-align: unset;
+}
+.news-span {
+    margin: 0px 85px;
+}
+.beside-svg {
+    position: relative;
+    bottom: 0.9em;
+    padding: 0px 7px;
+}
+nav ul li {
+    display: inline;
+    padding: 0px 9px;
+}
+nav ul {
+    background-color: #4371a3;
+}
+.darkback {
+    background-color: #4371a3;
+}
+.newsback {
+    background-color: #5a8bc4;
+}
+footer {
+    background-color: #12375c;
+}
+.rubrik {
+    color: #222222;
+}
+.bildergrid {
+    grid-column: 1/3;
+    display: grid;
+    grid-template-columns: repeat(5, 171px);
+    grid-template-rows: repeat(2, 133px);
+    grid-template-areas:
+        "ape fli fli gert sch"
+        "ape ver tis tis sch";
+    gap: 5px;
+}
+.appell {
+    grid-area: ape;
+}
+.flieger {
+    grid-area: fli;
+}
+.gert {
+    grid-area: gert;
+}
+.scheich {
+    grid-area: sch;
+}
+.verstappen {
+    grid-area: ver;
+}
+.tisch {
+    grid-area: tis;
+}
+.news-section {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+.news-section > h2 {
+    color: #222222;
+    text-align: right;
+}
+.news-section li {
+    color: #ffffff;
     list-style-type: none;
-    /* white-space: nowrap; */
-    overflow: clip;
-    resize: none;
-    text-overflow: clip;
-    display: block;
-    height: 1em;
-    width: auto;
-    color: darkred;
+    padding-top: 0.5em;
 }
