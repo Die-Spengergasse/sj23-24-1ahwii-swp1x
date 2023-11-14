@@ -10,6 +10,10 @@ h2 {
     font-size: 1.1rem;
     font-weight: normal;
 }
+article h2:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
 .news-section article p {
     visibility: hidden;
     /* transition: visibility 1s, position 1s; */
