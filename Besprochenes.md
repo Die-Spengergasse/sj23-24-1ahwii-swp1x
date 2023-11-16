@@ -1,5 +1,12 @@
 # Besprochene Themen - revers chronologisch
 
+## Inhalte 16.11.
+
+-   auflösung orf challenge
+-   vscode walkthrough
+-   Notenstand besprechen
+-   w3c plugin / formatter / remove blank lines
+
 ## Tests (stehen im Untis)
 
 -   5.10. (Vorbereitung Labor)

@@ -4,23 +4,13 @@
 
 ## Ich finde die Abgabe sonst nicht!!
 
--   Notenstand besprechen
--   w3c plugin / formatter / remove blank lines
 -   vscode workspaces
--   vscode walkthrough
 -   git handling
--   auflösung orf challenge
 
-## HÜ bis 16.11. = Verländerung der HÜ der Herbstferien
-
-Fertigmachen ORF Seite Nachbau
-
-HÜ über die Herbstferien
+## HÜ vom 16.11. erneute Verlängerung der HÜ: Fertigmachen ORF Seite Nachbau
 
 -   Images in einen CSS Grid packen
--   Angabe im Ordner `2023-10-12_PLF1_Website_nachbauen`
--   Online Spiel hierzu: <https://cssgridgarden.com/>
--   siehe diverse tutorials auf w3schools und mdn
+-   javascript!
 
 ## TODO - upcoming
 
