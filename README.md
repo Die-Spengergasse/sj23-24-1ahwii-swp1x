@@ -1,6 +1,15 @@
 # sj23-24-1ahwii-swpx
 
-Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag)
+## Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag)
+
+## Ich finde die Abgabe sonst nicht!!
+
+-   Notenstand besprechen
+-   w3c plugin / formatter / remove blank lines
+-   vscode workspaces
+-   vscode walkthrough
+-   git handling
+-   auflösung orf challenge
 
 ## HÜ bis 16.11. = Verländerung der HÜ der Herbstferien
 
