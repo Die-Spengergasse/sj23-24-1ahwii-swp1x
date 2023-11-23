@@ -1,5 +1,21 @@
 # sj23-24-1ahwii-swpx
 
+## HÜ vom 23.11.
+
+-   classroom link clonen
+-   taschenrechner video nachbauen
+-   Ordnung im eigenes Repo
+
+## Taschenrechner
+
+### classroom invite:
+
+<https://classroom.github.com/a/NZsPUsJl>
+
+### video link
+
+<https://youtu.be/j59qQ7YWLxw>
+
 ## Hausübungen BITTE immer in einen Ordner `YYYY-MM-DD` speichern! (Jahr-Monat-Tag)
 
 ## Ich finde die Abgabe sonst nicht!!
