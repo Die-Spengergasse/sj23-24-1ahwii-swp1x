@@ -1,5 +1,20 @@
 # sj23-24-1ahwii-swpx
 
+## 25.1. Test
+
+## 18.1.
+
+-   Taschenrechner fertig besprechen
+-   funktionen, schleifen, if
+-   https://www.javascripttutorial.net/
+-   nochmal intro node
+
+## 11.1.
+
+-   arrays und Objekte!
+
+## 14.12. PLF2 Aufgabe Node und Funktinen
+
 ## PLF2 Repo Link
 
 <https://classroom.github.com/a/Udp4xebY>
