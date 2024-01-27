@@ -1,9 +1,14 @@
 # sj23-24-1ahwii-swpx
 
+HÜ
+
+<2024-01-27_JS_functions_classes_ANG>
+
 ## 25.1. Test
 
 ## 18.1.
 
+-   classen private member get und set
 -   Taschenrechner fertig besprechen
 -   funktionen, schleifen, if
 -   https://www.javascripttutorial.net/
