@@ -1,6 +1,8 @@
 # sj23-24-1ahwii-swpx
 
-HÜ
+Array split, join, slice, index
+
+<https://www.javascripttutorial.net/>
 
 <2024-01-27_JS_functions_classes_ANG>
 
