@@ -1,5 +1,11 @@
 # sj23-24-1ahwii-swpx
 
+## HÜ vom 15.2.
+
+Ordner 2024-02-15\_\_BMI .. lt. "Aufgabe.jpg" fertig machen!
+
+##
+
 Array split, join, slice, index
 
 <https://www.javascripttutorial.net/>
