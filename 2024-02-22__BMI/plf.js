@@ -37,4 +37,29 @@ class Person {
     }
 }
 
-export { Person };
+function getName() {
+    return document.querySelector('#namensfeld').value;
+}
+// Function to get the value of the selected radio button
+function getSelectedGender() {
+    const radios = document.getElementsByName('choice');
+    for (var i = 0; i < radios.length; i++) {
+        if (radios[i].checked) {
+            // Return the value of the selected radio button
+            return radios[i].value;
+        }
+    }
+}
+function getGroesse() {
+    return document.querySelector('#groesse').value;
+}
+function getGewicht() {
+    return document.querySelector('#gewicht').value;
+}
+const anlegeButton = document.querySelector('#anlegen');
+// export { Person };
+const ausgabe = document.querySelector('#ausgabe');
+anlegeButton.addEventListener('click', function () {
+    console.log('click');
+});
+const name = getName;

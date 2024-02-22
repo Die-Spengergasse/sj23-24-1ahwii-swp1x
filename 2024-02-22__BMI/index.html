@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="plf.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <label>Name:<input type="text" name="namensfeld" id="namensfeld" placeholder="bitte name"></label>
+    <br>GEschlecht:
+    <form>
+        <input type="radio" id="choice1" name="choice" value="f">
+        <label for="choice1">weiblich</label><br>
+        <input type="radio" id="choice2" name="choice" value="m">
+        <label for="choice2">männlich</label><br>
+    </form>
+    <label>Größe<input type="number" name="groesse" id="groesse"></label>
+    <label>Gewicht<input type="number" name="gewicht" id="gewicht"></label>
+    <button type="button" id="anlegen">Person anlegen</button>
+    <pre id="ausgabe"></pre>
+</body>
+
+</html>

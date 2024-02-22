@@ -1,5 +1,7 @@
 # sj23-24-1ahwii-swpx
 
+- Unbedingt Copilot Chat
+
 ## HÜ vom 15.2.
 
 Ordner 2024-02-15\_\_BMI .. lt. "Aufgabe.jpg" fertig machen!
