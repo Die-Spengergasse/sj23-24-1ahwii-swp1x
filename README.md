@@ -5,7 +5,6 @@
 Installation faker wie im Unterricht 5 Verschiedene fake-type jeweils 10 Stück
 Debugger lernen
 
--   Unbedingt Copilot Chat
 
 ## HÜ vom 15.2.
 
