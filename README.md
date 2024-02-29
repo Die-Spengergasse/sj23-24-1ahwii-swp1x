@@ -1,10 +1,15 @@
 # sj23-24-1ahwii-swpx
 
-- Unbedingt Copilot Chat
+## HÜ vom 29.2.
+
+Installation faker wie im Unterricht 5 Verschiedene fake-type jeweils 10 Stück
+Debugger lernen
+
+-   Unbedingt Copilot Chat
 
 ## HÜ vom 15.2.
 
-Ordner 2024-02-15\_\_BMI .. lt. "Aufgabe.jpg" fertig machen!
+Orcd dner 2024-02-15\_\_BMI .. lt. "Aufgabe.jpg" fertig machen!
 
 ##
 
