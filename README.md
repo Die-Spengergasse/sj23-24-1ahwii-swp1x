@@ -1,10 +1,13 @@
 # sj23-24-1ahwii-swpx
 
+PLF Termine ausmachen
+
 ## HÜ vom 29.2.
 
 Installation faker wie im Unterricht 5 Verschiedene fake-type jeweils 10 Stück
 Debugger lernen
 
+Es wird eine Überprüfung Deines Umgangs mit dem Debugger geben.
 
 ## HÜ vom 15.2.
 
