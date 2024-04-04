@@ -4,7 +4,7 @@
     "description": "beispiel",
     "main": "script.js",
     "scripts": {
-        "test": "node script.js",
+        "start": "node script.js",
         "debug": "node --inspect script.js"
     },
     "author": "",

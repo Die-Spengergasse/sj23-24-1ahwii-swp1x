@@ -1,6 +1,15 @@
 # sj23-24-1ahwii-swpx
 
-PLF Termine ausmachen
+# HÜ vom 4. April
+
+In der Personenklasse (heutiges Datum) ALLE Members auf _private_ setzen sowie
+die AbfrageMethoden über get, mit 3 Demo-Personen, wo die Sachen aufgerufen
+werden. (getter_setter.js)
+
+PLF Termine
+
+-   18.4.
+-   23.5.
 
 ## HÜ vom 29.2.
 
