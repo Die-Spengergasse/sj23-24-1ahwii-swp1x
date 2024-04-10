@@ -1,5 +1,12 @@
 # sj23-24-1ahwii-swpx
 
+In Hinblick auf TA:
+
+-   UML Diagramme
+-   setter werden über den Construktor aufgerufen
+-   npm run scripts besprechen
+-   Übung: supermarktkassa?
+
 # HÜ vom 4. April
 
 In der Personenklasse (heutiges Datum) ALLE Members auf _private_ setzen sowie
