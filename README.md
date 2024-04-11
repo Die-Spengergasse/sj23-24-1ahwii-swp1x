@@ -1,5 +1,11 @@
 # sj23-24-1ahwii-swpx
 
+## TEststoff
+
+-   Klasse mit Construktor und public und private Members
+-   laut UML Diagramm zu erstellen
+-   Einbau in eine Website
+
 In Hinblick auf TA:
 
 -   UML Diagramme
@@ -7,9 +13,13 @@ In Hinblick auf TA:
 -   npm run scripts besprechen
 -   Übung: supermarktkassa?
 
-class Kassa
+HÜ vom 11.4.
+
+function fact(n) wie an der Tafel gezeigt nachbauen!
 
 ```
+class Kassa
+
 #geldLade
 scannen(artikel)
 bezahlen(betrag)
