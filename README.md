@@ -7,6 +7,21 @@ In Hinblick auf TA:
 -   npm run scripts besprechen
 -   Übung: supermarktkassa?
 
+class Kassa
+
+```
+#geldLade
+scannen(artikel)
+bezahlen(betrag)
+  - ist betrag ausreichend (throw error)
+  - tats. preis in die geldlade
+  - rechnung schreiben mit retourgeld
+toString() .. heute xy € eingnommen
+
+Artikel
+{"name": "Cola", "preis": 1.89}
+```
+
 # HÜ vom 4. April
 
 In der Personenklasse (heutiges Datum) ALLE Members auf _private_ setzen sowie
