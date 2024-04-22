@@ -1,5 +1,9 @@
 # sj23-24-1ahwii-swpx
 
+## kommend: 
+
+- random
+
 ## TEststoff
 
 -   Klasse mit Construktor und public und private Members
