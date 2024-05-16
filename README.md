@@ -1,5 +1,11 @@
 # sj23-24-1ahwii-swpx
 
+## Üben bis zum Test
+
+- Ticketautomat Fehler suchen und beheben!
+- Quiz Klasse als Applikation
+- Kassa als Applikation
+
 ## kommend
 
 - random
