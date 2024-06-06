@@ -122,7 +122,8 @@ Restgeld: € ${this.#gegeben - this.#summe},-
 // State
 // 1.APPLICATION STATE;
 // 2.STATE ACCESSORS / MUTATORS FN'S
-const state = new TicketAutomat(100);
+// const state = new TicketAutomat(100);
+const automat = new TicketAutomat(150);
 const zieleUndPreise = {
     Bregenz: 90,
     Eisenstadt: 13,
@@ -213,7 +214,6 @@ function onReset() {
 // 7.INIT BINDINGS
 // These are the initial bindings of the event handlers, i.e.register the handlers of Pt. 6 with the DOM Node Refs of;
 // Pt. 3;
-const automat = new TicketAutomat(150);
 einwerfenInput.addEventListener('keyup', (e) => {
     if (e.key != 'Enter') {
         return;
