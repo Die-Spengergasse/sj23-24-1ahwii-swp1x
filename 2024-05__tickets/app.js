@@ -160,7 +160,6 @@ function render() {
     guthabenSpan.textContent = automat.eingeworfen;
     fahrpreisSpan.textContent = automat.gesamtPreis;
     einnahmenSpan.textContent = automat.einnahmenGesamt;
-    fahrpreisSpan.textContent = automat.gesamtPreis;
 }
 // These functions will render the application state to the DOM
 // IMPORTANT TAKEAWAY: The state drives the UI, any state change should trigger a re - render of the UI;
