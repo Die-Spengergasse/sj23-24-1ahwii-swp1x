@@ -1,5 +1,12 @@
 # sj23-24-1ahwii-swpx
 
+## HÜ vom 13.6
+
+Taschenrechner (2024-01-11)
+
+1. Checken ob das dem 8-Punte System entspricht
+2. Einbau von wurzel und quadrat
+
 ## Üben bis zum Test
 
 - Ticketautomat Fehler suchen und beheben!
